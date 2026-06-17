@@ -1,5 +1,5 @@
-console.log("Hello, World!");
+ console.log("Welcome to playlist");
 
-for(let i = 0; i < 5; i++){
-    console.log("Iteration: " + i);
-}
+ for(var i=0; i<10; i++){
+        console.log(i);
+ }

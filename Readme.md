@@ -2,4 +2,4 @@
 This is a complete git course
 
 # Change from feature branch
-# Change from bug branch
+# Change from bug branch  
